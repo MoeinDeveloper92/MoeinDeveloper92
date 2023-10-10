@@ -18,7 +18,7 @@
                                                                              <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>     
                                                                              </div>    
 <h1 align="center">
-  hey there Welcome to my World!!!!
+  How You Doin? :)
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>  
 
@@ -32,7 +32,7 @@
 
 ### :woman_technologist::desktop_computer: About Me :
 I am a Web and Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Iran :iran:. On top of that, I am studying master of Data Analytics at Berlin University :de: .                                                                             
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: I’m working as a Software Engineer and contributing to Frontend and Backend for building web applications.
 
 - :seedling: Exploring Technical Content Writing.
 
