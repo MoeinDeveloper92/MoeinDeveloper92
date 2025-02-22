@@ -31,7 +31,7 @@
 
 
 ### :woman_technologist::desktop_computer: About Me :
-I am a Fullstack web and mobile app developer as well as a software engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">. On top of that, I am studying master of Data Analytics at Berlin University :de: .                                                                             
+I am a Fullstack web and mobile app developer as well as a software engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">. On top of that, I am a graduted student from UCA, and studied MSc Data Analytics.:de: .                                                                             
 - :telescope: I’m working as a Software Developer and contributing to Frontend and Backend for building web applications.
 
 - :seedling: Exploring Technical Content Writing.
